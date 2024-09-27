@@ -1,0 +1,9 @@
+bag\com\AddProductToBagTest.class
+bag\com\RemoveProductToBagTest.class
+store\com\SearchStoreByZipCodeTest.class
+product\com\SearchNonExistentProductTest.class
+product\com\SearchProductByNameTest.class
+FAQReturn\com\FAQReturnsTest.class
+store\com\SearchStoreByInvalidZipCodeTest.class
+store\com\SearchStoreByCityStateTest.class
+rewards\com\RewardsTest.class
