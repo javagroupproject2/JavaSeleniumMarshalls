@@ -55,7 +55,7 @@ public class RemoveProductToBagTest {
     
     
   @Test
-  public void testUntitledTestCase() throws Exception {
+  public void testRemoveProductToBag() throws Exception {
     driver.get("https://www.google.com/search?q=marshalls&rlz=1C1ONGR_enUS1113US1114&oq=&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIJCAYQIxgnGOoCMhIIBxAuGCcYrwEYxwEY6gIYjgXSAQkxMTcwajBqMTWoAgiwAgE&sourceid=chrome&ie=UTF-8");
     driver.findElement(By.xpath("//div[@id='rso']/div/div/div/div/div/div/div/div/div/div/span/a/h3")).click();
     driver.get("https://www.marshalls.com/us/store/index.jsp");

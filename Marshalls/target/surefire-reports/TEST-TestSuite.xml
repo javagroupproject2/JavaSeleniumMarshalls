@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="213.519" tests="9" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="224.04" tests="9" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="22"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-22\bin"/>
-    <property name="sun.java.command" value="C:\Users\wende\AppData\Local\Temp\surefire13513820020946852078\surefirebooter-20240927071956490_3.jar C:\Users\wende\AppData\Local\Temp\surefire13513820020946852078 2024-09-27T07-19-56_280-jvmRun1 surefire-20240927071956490_1tmp surefire_0-20240927071956490_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\wende\AppData\Local\Temp\surefire1803130495043551634\surefirebooter-20240927110331108_3.jar C:\Users\wende\AppData\Local\Temp\surefire1803130495043551634 2024-09-27T11-03-30_881-jvmRun1 surefire-20240927110331108_1tmp surefire_0-20240927110331108_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="D:\Fatima\Marshalls\target\test-classes;D:\Fatima\Marshalls\target\classes;C:\Users\wende\.m2\repository\org\testng\testng\7.10.2\testng-7.10.2.jar;C:\Users\wende\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\wende\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\wende\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;C:\Users\wende\.m2\repository\org\seleniumhq\selenium\selenium-java\4.25.0\selenium-java-4.25.0.jar;C:\Users\wende\.m2\repository\org\seleniumhq\selenium\selenium-api\4.25.0\selenium-api-4.25.0.jar;C:\Users\wende\.m2\repository\org\jspecify\jspecify\1.0.0\jspecify-1.0.0.jar;C:\Users\wende\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.25.0\selenium-chrome-driver-4.25.0.jar;C:\Users\wende\.m2\repository\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar;C:\Users\wende\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.25.0\selenium-chromium-driver-4.25.0.jar;C:\Users\wende\.m2\repository\org\seleniumhq\selenium\selenium-json\4.25.0\selenium-json-4.25.0.jar;C:\Users\wende\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.25.0\selenium-manager-4.25.0.jar;C:\Users\wende\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v127\4.25.0\selenium-devtools-v127-4.25.0.jar;C:\Users\wende\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v128\4.25.0\selenium-devtools-v128-4.25.0.jar;C:\Users\wende\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v129\4.25.0\selenium-devtools-v129-4.25.0.jar;C:\Users\wende\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v85\4.25.0\selenium-devtools-v85-4.25.0.jar;C:\Users\wende\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.25.0\selenium-edge-driver-4.25.0.jar;C:\Users\wende\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.25.0\selenium-firefox-driver-4.25.0.jar;C:\Users\wende\.m2\repository\org\seleniumhq\selenium\selenium-http\4.25.0\selenium-http-4.25.0.jar;C:\Users\wende\.m2\repository\dev\failsafe\failsafe\3.3.2\failsafe-3.3.2.jar;C:\Users\wende\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.25.0\selenium-ie-driver-4.25.0.jar;C:\Users\wende\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.25.0\selenium-remote-driver-4.25.0.jar;C:\Users\wende\.m2\repository\com\google\guava\guava\33.3.0-jre\guava-33.3.0-jre.jar;C:\Users\wende\.m2\repository\com\google\guava\failureaccess\1.0.2\failureaccess-1.0.2.jar;C:\Users\wende\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\wende\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\wende\.m2\repository\org\checkerframework\checker-qual\3.43.0\checker-qual-3.43.0.jar;C:\Users\wende\.m2\repository\com\google\errorprone\error_prone_annotations\2.28.0\error_prone_annotations-2.28.0.jar;C:\Users\wende\.m2\repository\com\google\j2objc\j2objc-annotations\3.0.0\j2objc-annotations-3.0.0.jar;C:\Users\wende\.m2\repository\io\opentelemetry\semconv\opentelemetry-semconv\1.25.0-alpha\opentelemetry-semconv-1.25.0-alpha.jar;C:\Users\wende\.m2\repository\io\opentelemetry\opentelemetry-api\1.42.1\opentelemetry-api-1.42.1.jar;C:\Users\wende\.m2\repository\io\opentelemetry\opentelemetry-context\1.42.1\opentelemetry-context-1.42.1.jar;C:\Users\wende\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.42.1\opentelemetry-exporter-logging-1.42.1.jar;C:\Users\wende\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.42.1\opentelemetry-sdk-common-1.42.1.jar;C:\Users\wende\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.42.1\opentelemetry-sdk-extension-autoconfigure-spi-1.42.1.jar;C:\Users\wende\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.42.1\opentelemetry-sdk-extension-autoconfigure-1.42.1.jar;C:\Users\wende\.m2\repository\io\opentelemetry\opentelemetry-api-incubator\1.42.1-alpha\opentelemetry-api-incubator-1.42.1-alpha.jar;C:\Users\wende\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.42.1\opentelemetry-sdk-trace-1.42.1.jar;C:\Users\wende\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.42.1\opentelemetry-sdk-1.42.1.jar;C:\Users\wende\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.42.1\opentelemetry-sdk-metrics-1.42.1.jar;C:\Users\wende\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.42.1\opentelemetry-sdk-logs-1.42.1.jar;C:\Users\wende\.m2\repository\net\bytebuddy\byte-buddy\1.15.1\byte-buddy-1.15.1.jar;C:\Users\wende\.m2\repository\org\seleniumhq\selenium\selenium-os\4.25.0\selenium-os-4.25.0.jar;C:\Users\wende\.m2\repository\org\apache\commons\commons-exec\1.4.0\commons-exec-1.4.0.jar;C:\Users\wende\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.25.0\selenium-safari-driver-4.25.0.jar;C:\Users\wende\.m2\repository\org\seleniumhq\selenium\selenium-support\4.25.0\selenium-support-4.25.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\wende\AppData\Local\Temp\surefire13513820020946852078\surefirebooter-20240927071956490_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\wende\AppData\Local\Temp\surefire1803130495043551634\surefirebooter-20240927110331108_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="22.0.1+8-16"/>
@@ -59,14 +59,14 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="66.0"/>
   </properties>
-  <testcase name="testUntitledTestCase" classname="store.com.SearchStoreByInvalidZipCodeTest" time="17.655">
+  <testcase name="testSearchStoreByInvalidZipCode" classname="store.com.SearchStoreByInvalidZipCodeTest" time="18.243">
     <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
 ]]></system-err>
   </testcase>
-  <testcase name="testSearchStoreByZipCode" classname="store.com.SearchStoreByZipCodeTest" time="22.268">
-    <system-err><![CDATA[Sep 27, 2024 7:20:44 AM org.openqa.selenium.remote.http.WebSocket$Listener onError
+  <testcase name="testSearchStoreByZipCode" classname="store.com.SearchStoreByZipCodeTest" time="24.509">
+    <system-err><![CDATA[Sep 27, 2024 11:04:23 AM org.openqa.selenium.remote.http.WebSocket$Listener onError
 WARNING: Connection reset
 java.net.SocketException: Connection reset
 	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:403)
@@ -88,8 +88,8 @@ java.net.SocketException: Connection reset
 
 ]]></system-err>
   </testcase>
-  <testcase name="testSearchStoreByCityStateDirections" classname="store.com.SearchStoreByCityStateTest" time="24.017">
-    <system-err><![CDATA[Sep 27, 2024 7:21:09 AM org.openqa.selenium.remote.http.WebSocket$Listener onError
+  <testcase name="testSearchStoreByCityStateDirections" classname="store.com.SearchStoreByCityStateTest" time="24.965">
+    <system-err><![CDATA[Sep 27, 2024 11:04:50 AM org.openqa.selenium.remote.http.WebSocket$Listener onError
 WARNING: Connection reset
 java.net.SocketException: Connection reset
 	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:403)
@@ -111,9 +111,8 @@ java.net.SocketException: Connection reset
 
 ]]></system-err>
   </testcase>
-  <testcase name="testUntitledTestCase" classname="bag.com.AddProductToBagTest" time="29.624"/>
-  <testcase name="testUntitledTestCase" classname="bag.com.RemoveProductToBagTest" time="32.612">
-    <system-err><![CDATA[Sep 27, 2024 7:22:15 AM org.openqa.selenium.remote.http.WebSocket$Listener onError
+  <testcase name="testAddProductToBag" classname="bag.com.AddProductToBagTest" time="31.394">
+    <system-err><![CDATA[Sep 27, 2024 11:05:23 AM org.openqa.selenium.remote.http.WebSocket$Listener onError
 WARNING: Connection reset
 java.net.SocketException: Connection reset
 	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:403)
@@ -135,8 +134,8 @@ java.net.SocketException: Connection reset
 
 ]]></system-err>
   </testcase>
-  <testcase name="testUntitledTestCase" classname="product.com.SearchNonExistentProductTest" time="15.731">
-    <system-err><![CDATA[Sep 27, 2024 7:22:33 AM org.openqa.selenium.remote.http.WebSocket$Listener onError
+  <testcase name="testRemoveProductToBag" classname="bag.com.RemoveProductToBagTest" time="35.645">
+    <system-err><![CDATA[Sep 27, 2024 11:06:00 AM org.openqa.selenium.remote.http.WebSocket$Listener onError
 WARNING: Connection reset
 java.net.SocketException: Connection reset
 	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:403)
@@ -158,29 +157,8 @@ java.net.SocketException: Connection reset
 
 ]]></system-err>
   </testcase>
-  <testcase name="testUntitledTestCase" classname="product.com.SearchProductByNameTest" time="23.423"/>
-  <testcase name="testUntitledTestCase" classname="rewards.com.RewardsTest" time="13.548"/>
-  <testcase name="testFAQReturns" classname="FAQReturn.com.FAQReturnsTest" time="15.333">
-    <system-err><![CDATA[Sep 27, 2024 7:23:30 AM org.openqa.selenium.remote.http.WebSocket$Listener onError
-WARNING: Connection reset
-java.net.SocketException: Connection reset
-	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:403)
-	at java.base/sun.nio.ch.SocketChannelImpl.implRead(SocketChannelImpl.java:435)
-	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:493)
-	at java.net.http/jdk.internal.net.http.SocketTube.readAvailable(SocketTube.java:1178)
-	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.read(SocketTube.java:841)
-	at java.net.http/jdk.internal.net.http.SocketTube$SocketFlowTask.run(SocketTube.java:181)
-	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$SchedulableTask.run(SequentialScheduler.java:207)
-	at java.net.http/jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:280)
-	at java.net.http/jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:233)
-	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.signalReadable(SocketTube.java:782)
-	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$ReadEvent.signalEvent(SocketTube.java:965)
-	at java.net.http/jdk.internal.net.http.SocketTube$SocketFlowEvent.handle(SocketTube.java:253)
-	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.handleEvent(HttpClientImpl.java:1476)
-	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.lambda$run$3(HttpClientImpl.java:1421)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
-	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:1421)
-
-]]></system-err>
-  </testcase>
+  <testcase name="testSearchNonExistentProduct" classname="product.com.SearchNonExistentProductTest" time="13.413"/>
+  <testcase name="testSearchProductByName" classname="product.com.SearchProductByNameTest" time="24.781"/>
+  <testcase name="testRewards" classname="rewards.com.RewardsTest" time="13.34"/>
+  <testcase name="testFAQReturns" classname="FAQReturn.com.FAQReturnsTest" time="16.356"/>
 </testsuite>

@@ -50,7 +50,7 @@ public class RewardsTest {
     }
 
     @Test
-    public void testUntitledTestCase() throws Exception {
+    public void testRewards() throws Exception {
         driver.get("https://www.google.com/search?q=marshalls&rlz=1C1ONGR_enUS1113US1114&oq=&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIJCAYQIxgnGOoCMhIIBxAuGCcYrwEYxwEY6gIYjgXSAQg4MTNqMGoxNagCCLACAQ&sourceid=chrome&ie=UTF-8");
         //Maximize browser window   
         driver.manage().window().maximize();

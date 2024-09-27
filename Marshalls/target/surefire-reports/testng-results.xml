@@ -2,204 +2,204 @@
 <testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-09-27T07:19:58 CDT" name="Surefire suite" finished-at="2024-09-27T07:23:30 CDT" duration-ms="211776">
+  <suite started-at="2024-09-27T11:03:33 CDT" name="Surefire suite" finished-at="2024-09-27T11:07:15 CDT" duration-ms="221926">
     <groups>
     </groups>
-    <test started-at="2024-09-27T07:19:58 CDT" name="Surefire test" finished-at="2024-09-27T07:23:30 CDT" duration-ms="211776">
+    <test started-at="2024-09-27T11:03:33 CDT" name="Surefire test" finished-at="2024-09-27T11:07:15 CDT" duration-ms="221926">
       <class name="product.com.SearchNonExistentProductTest">
-        <test-method is-config="true" signature="setUpClass()[pri:0, instance:product.com.SearchNonExistentProductTest@47f4e407]" started-at="2024-09-27T07:22:15 CDT" name="setUpClass" finished-at="2024-09-27T07:22:15 CDT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:product.com.SearchNonExistentProductTest@2dd80673]" started-at="2024-09-27T11:06:00 CDT" name="setUpClass" finished-at="2024-09-27T11:06:00 CDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:product.com.SearchNonExistentProductTest@47f4e407]" started-at="2024-09-27T07:22:15 CDT" name="setUpMethod" finished-at="2024-09-27T07:22:17 CDT" duration-ms="1812" status="PASS">
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:product.com.SearchNonExistentProductTest@2dd80673]" started-at="2024-09-27T11:06:00 CDT" name="setUpMethod" finished-at="2024-09-27T11:06:02 CDT" duration-ms="1814" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpMethod -->
-        <test-method signature="testUntitledTestCase()[pri:0, instance:product.com.SearchNonExistentProductTest@47f4e407]" started-at="2024-09-27T07:22:17 CDT" name="testUntitledTestCase" finished-at="2024-09-27T07:22:33 CDT" duration-ms="15729" status="PASS">
+        <test-method signature="testSearchNonExistentProduct()[pri:0, instance:product.com.SearchNonExistentProductTest@2dd80673]" started-at="2024-09-27T11:06:02 CDT" name="testSearchNonExistentProduct" finished-at="2024-09-27T11:06:16 CDT" duration-ms="13416" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testUntitledTestCase -->
-        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:product.com.SearchNonExistentProductTest@47f4e407]" started-at="2024-09-27T07:22:33 CDT" name="tearDownMethod" finished-at="2024-09-27T07:22:33 CDT" duration-ms="1" status="PASS">
+        </test-method> <!-- testSearchNonExistentProduct -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:product.com.SearchNonExistentProductTest@2dd80673]" started-at="2024-09-27T11:06:16 CDT" name="tearDownMethod" finished-at="2024-09-27T11:06:16 CDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:product.com.SearchNonExistentProductTest@47f4e407]" started-at="2024-09-27T07:22:33 CDT" name="tearDownClass" finished-at="2024-09-27T07:22:33 CDT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:product.com.SearchNonExistentProductTest@2dd80673]" started-at="2024-09-27T11:06:16 CDT" name="tearDownClass" finished-at="2024-09-27T11:06:16 CDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
       </class> <!-- product.com.SearchNonExistentProductTest -->
       <class name="store.com.SearchStoreByZipCodeTest">
-        <test-method is-config="true" signature="setUpClass()[pri:0, instance:store.com.SearchStoreByZipCodeTest@1d470d0]" started-at="2024-09-27T07:20:19 CDT" name="setUpClass" finished-at="2024-09-27T07:20:19 CDT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:store.com.SearchStoreByZipCodeTest@2d1dee39]" started-at="2024-09-27T11:03:57 CDT" name="setUpClass" finished-at="2024-09-27T11:03:57 CDT" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:store.com.SearchStoreByZipCodeTest@1d470d0]" started-at="2024-09-27T07:20:19 CDT" name="setUpMethod" finished-at="2024-09-27T07:20:21 CDT" duration-ms="1853" status="PASS">
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:store.com.SearchStoreByZipCodeTest@2d1dee39]" started-at="2024-09-27T11:03:57 CDT" name="setUpMethod" finished-at="2024-09-27T11:03:59 CDT" duration-ms="1899" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpMethod -->
-        <test-method signature="testSearchStoreByZipCode()[pri:0, instance:store.com.SearchStoreByZipCodeTest@1d470d0]" started-at="2024-09-27T07:20:21 CDT" name="testSearchStoreByZipCode" finished-at="2024-09-27T07:20:44 CDT" duration-ms="22260" status="PASS">
+        <test-method signature="testSearchStoreByZipCode()[pri:0, instance:store.com.SearchStoreByZipCodeTest@2d1dee39]" started-at="2024-09-27T11:03:59 CDT" name="testSearchStoreByZipCode" finished-at="2024-09-27T11:04:23 CDT" duration-ms="24505" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSearchStoreByZipCode -->
-        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:store.com.SearchStoreByZipCodeTest@1d470d0]" started-at="2024-09-27T07:20:44 CDT" name="tearDownMethod" finished-at="2024-09-27T07:20:44 CDT" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:store.com.SearchStoreByZipCodeTest@2d1dee39]" started-at="2024-09-27T11:04:23 CDT" name="tearDownMethod" finished-at="2024-09-27T11:04:23 CDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:store.com.SearchStoreByZipCodeTest@1d470d0]" started-at="2024-09-27T07:20:44 CDT" name="tearDownClass" finished-at="2024-09-27T07:20:44 CDT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:store.com.SearchStoreByZipCodeTest@2d1dee39]" started-at="2024-09-27T11:04:23 CDT" name="tearDownClass" finished-at="2024-09-27T11:04:23 CDT" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
       </class> <!-- store.com.SearchStoreByZipCodeTest -->
       <class name="bag.com.AddProductToBagTest">
-        <test-method is-config="true" signature="setUpClass()[pri:0, instance:bag.com.AddProductToBagTest@54c62d71]" started-at="2024-09-27T07:21:09 CDT" name="setUpClass" finished-at="2024-09-27T07:21:09 CDT" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:bag.com.AddProductToBagTest@fc258b1]" started-at="2024-09-27T11:04:50 CDT" name="setUpClass" finished-at="2024-09-27T11:04:50 CDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:bag.com.AddProductToBagTest@54c62d71]" started-at="2024-09-27T07:21:09 CDT" name="setUpMethod" finished-at="2024-09-27T07:21:11 CDT" duration-ms="1626" status="PASS">
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:bag.com.AddProductToBagTest@fc258b1]" started-at="2024-09-27T11:04:50 CDT" name="setUpMethod" finished-at="2024-09-27T11:04:52 CDT" duration-ms="1710" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpMethod -->
-        <test-method signature="testUntitledTestCase()[pri:0, instance:bag.com.AddProductToBagTest@54c62d71]" started-at="2024-09-27T07:21:11 CDT" name="testUntitledTestCase" finished-at="2024-09-27T07:21:41 CDT" duration-ms="29623" status="PASS">
+        <test-method signature="testAddProductToBag()[pri:0, instance:bag.com.AddProductToBagTest@fc258b1]" started-at="2024-09-27T11:04:52 CDT" name="testAddProductToBag" finished-at="2024-09-27T11:05:23 CDT" duration-ms="31399" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testUntitledTestCase -->
-        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:bag.com.AddProductToBagTest@54c62d71]" started-at="2024-09-27T07:21:41 CDT" name="tearDownMethod" finished-at="2024-09-27T07:21:41 CDT" duration-ms="1" status="PASS">
+        </test-method> <!-- testAddProductToBag -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:bag.com.AddProductToBagTest@fc258b1]" started-at="2024-09-27T11:05:23 CDT" name="tearDownMethod" finished-at="2024-09-27T11:05:23 CDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:bag.com.AddProductToBagTest@54c62d71]" started-at="2024-09-27T07:21:41 CDT" name="tearDownClass" finished-at="2024-09-27T07:21:41 CDT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:bag.com.AddProductToBagTest@fc258b1]" started-at="2024-09-27T11:05:23 CDT" name="tearDownClass" finished-at="2024-09-27T11:05:23 CDT" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
       </class> <!-- bag.com.AddProductToBagTest -->
       <class name="product.com.SearchProductByNameTest">
-        <test-method is-config="true" signature="setUpClass()[pri:0, instance:product.com.SearchProductByNameTest@2d1dee39]" started-at="2024-09-27T07:22:33 CDT" name="setUpClass" finished-at="2024-09-27T07:22:33 CDT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:product.com.SearchProductByNameTest@4af0df05]" started-at="2024-09-27T11:06:16 CDT" name="setUpClass" finished-at="2024-09-27T11:06:16 CDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:product.com.SearchProductByNameTest@2d1dee39]" started-at="2024-09-27T07:22:33 CDT" name="setUpMethod" finished-at="2024-09-27T07:22:34 CDT" duration-ms="1734" status="PASS">
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:product.com.SearchProductByNameTest@4af0df05]" started-at="2024-09-27T11:06:16 CDT" name="setUpMethod" finished-at="2024-09-27T11:06:17 CDT" duration-ms="1686" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpMethod -->
-        <test-method signature="testUntitledTestCase()[pri:0, instance:product.com.SearchProductByNameTest@2d1dee39]" started-at="2024-09-27T07:22:34 CDT" name="testUntitledTestCase" finished-at="2024-09-27T07:22:58 CDT" duration-ms="23424" status="PASS">
+        <test-method signature="testSearchProductByName()[pri:0, instance:product.com.SearchProductByNameTest@4af0df05]" started-at="2024-09-27T11:06:17 CDT" name="testSearchProductByName" finished-at="2024-09-27T11:06:42 CDT" duration-ms="24781" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testUntitledTestCase -->
-        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:product.com.SearchProductByNameTest@2d1dee39]" started-at="2024-09-27T07:22:58 CDT" name="tearDownMethod" finished-at="2024-09-27T07:22:58 CDT" duration-ms="1" status="PASS">
+        </test-method> <!-- testSearchProductByName -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:product.com.SearchProductByNameTest@4af0df05]" started-at="2024-09-27T11:06:42 CDT" name="tearDownMethod" finished-at="2024-09-27T11:06:42 CDT" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:product.com.SearchProductByNameTest@2d1dee39]" started-at="2024-09-27T07:22:58 CDT" name="tearDownClass" finished-at="2024-09-27T07:22:58 CDT" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:product.com.SearchProductByNameTest@4af0df05]" started-at="2024-09-27T11:06:42 CDT" name="tearDownClass" finished-at="2024-09-27T11:06:42 CDT" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
       </class> <!-- product.com.SearchProductByNameTest -->
       <class name="store.com.SearchStoreByInvalidZipCodeTest">
-        <test-method is-config="true" signature="setUpClass()[pri:0, instance:store.com.SearchStoreByInvalidZipCodeTest@294e5088]" started-at="2024-09-27T07:19:58 CDT" name="setUpClass" finished-at="2024-09-27T07:19:58 CDT" duration-ms="42" status="PASS">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:store.com.SearchStoreByInvalidZipCodeTest@31000e60]" started-at="2024-09-27T11:03:33 CDT" name="setUpClass" finished-at="2024-09-27T11:03:33 CDT" duration-ms="29" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:store.com.SearchStoreByInvalidZipCodeTest@294e5088]" started-at="2024-09-27T07:19:58 CDT" name="setUpMethod" finished-at="2024-09-27T07:20:02 CDT" duration-ms="3415" status="PASS">
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:store.com.SearchStoreByInvalidZipCodeTest@31000e60]" started-at="2024-09-27T11:03:33 CDT" name="setUpMethod" finished-at="2024-09-27T11:03:38 CDT" duration-ms="5053" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpMethod -->
-        <test-method signature="testUntitledTestCase()[pri:0, instance:store.com.SearchStoreByInvalidZipCodeTest@294e5088]" started-at="2024-09-27T07:20:02 CDT" name="testUntitledTestCase" finished-at="2024-09-27T07:20:19 CDT" duration-ms="17651" status="PASS">
+        <test-method signature="testSearchStoreByInvalidZipCode()[pri:0, instance:store.com.SearchStoreByInvalidZipCodeTest@31000e60]" started-at="2024-09-27T11:03:38 CDT" name="testSearchStoreByInvalidZipCode" finished-at="2024-09-27T11:03:57 CDT" duration-ms="18241" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testUntitledTestCase -->
-        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:store.com.SearchStoreByInvalidZipCodeTest@294e5088]" started-at="2024-09-27T07:20:19 CDT" name="tearDownMethod" finished-at="2024-09-27T07:20:19 CDT" duration-ms="1" status="PASS">
+        </test-method> <!-- testSearchStoreByInvalidZipCode -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:store.com.SearchStoreByInvalidZipCodeTest@31000e60]" started-at="2024-09-27T11:03:57 CDT" name="tearDownMethod" finished-at="2024-09-27T11:03:57 CDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:store.com.SearchStoreByInvalidZipCodeTest@294e5088]" started-at="2024-09-27T07:20:19 CDT" name="tearDownClass" finished-at="2024-09-27T07:20:19 CDT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:store.com.SearchStoreByInvalidZipCodeTest@31000e60]" started-at="2024-09-27T11:03:57 CDT" name="tearDownClass" finished-at="2024-09-27T11:03:57 CDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
       </class> <!-- store.com.SearchStoreByInvalidZipCodeTest -->
       <class name="bag.com.RemoveProductToBagTest">
-        <test-method is-config="true" signature="setUpClass()[pri:0, instance:bag.com.RemoveProductToBagTest@65045a87]" started-at="2024-09-27T07:21:41 CDT" name="setUpClass" finished-at="2024-09-27T07:21:41 CDT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:bag.com.RemoveProductToBagTest@6ff65192]" started-at="2024-09-27T11:05:23 CDT" name="setUpClass" finished-at="2024-09-27T11:05:23 CDT" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:bag.com.RemoveProductToBagTest@65045a87]" started-at="2024-09-27T07:21:41 CDT" name="setUpMethod" finished-at="2024-09-27T07:21:42 CDT" duration-ms="1736" status="PASS">
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:bag.com.RemoveProductToBagTest@6ff65192]" started-at="2024-09-27T11:05:23 CDT" name="setUpMethod" finished-at="2024-09-27T11:05:25 CDT" duration-ms="1797" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpMethod -->
-        <test-method signature="testUntitledTestCase()[pri:0, instance:bag.com.RemoveProductToBagTest@65045a87]" started-at="2024-09-27T07:21:42 CDT" name="testUntitledTestCase" finished-at="2024-09-27T07:22:15 CDT" duration-ms="32610" status="PASS">
+        <test-method signature="testRemoveProductToBag()[pri:0, instance:bag.com.RemoveProductToBagTest@6ff65192]" started-at="2024-09-27T11:05:25 CDT" name="testRemoveProductToBag" finished-at="2024-09-27T11:06:00 CDT" duration-ms="35645" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testUntitledTestCase -->
-        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:bag.com.RemoveProductToBagTest@65045a87]" started-at="2024-09-27T07:22:15 CDT" name="tearDownMethod" finished-at="2024-09-27T07:22:15 CDT" duration-ms="1" status="PASS">
+        </test-method> <!-- testRemoveProductToBag -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:bag.com.RemoveProductToBagTest@6ff65192]" started-at="2024-09-27T11:06:00 CDT" name="tearDownMethod" finished-at="2024-09-27T11:06:00 CDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:bag.com.RemoveProductToBagTest@65045a87]" started-at="2024-09-27T07:22:15 CDT" name="tearDownClass" finished-at="2024-09-27T07:22:15 CDT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:bag.com.RemoveProductToBagTest@6ff65192]" started-at="2024-09-27T11:06:00 CDT" name="tearDownClass" finished-at="2024-09-27T11:06:00 CDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
       </class> <!-- bag.com.RemoveProductToBagTest -->
       <class name="rewards.com.RewardsTest">
-        <test-method is-config="true" signature="setUpClass()[pri:0, instance:rewards.com.RewardsTest@48d5f34e]" started-at="2024-09-27T07:22:58 CDT" name="setUpClass" finished-at="2024-09-27T07:22:58 CDT" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:rewards.com.RewardsTest@57ea113a]" started-at="2024-09-27T11:06:42 CDT" name="setUpClass" finished-at="2024-09-27T11:06:42 CDT" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:rewards.com.RewardsTest@48d5f34e]" started-at="2024-09-27T07:22:58 CDT" name="setUpMethod" finished-at="2024-09-27T07:22:59 CDT" duration-ms="1729" status="PASS">
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:rewards.com.RewardsTest@57ea113a]" started-at="2024-09-27T11:06:42 CDT" name="setUpMethod" finished-at="2024-09-27T11:06:44 CDT" duration-ms="1681" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpMethod -->
-        <test-method signature="testUntitledTestCase()[pri:0, instance:rewards.com.RewardsTest@48d5f34e]" started-at="2024-09-27T07:22:59 CDT" name="testUntitledTestCase" finished-at="2024-09-27T07:23:13 CDT" duration-ms="13548" status="PASS">
+        <test-method signature="testRewards()[pri:0, instance:rewards.com.RewardsTest@57ea113a]" started-at="2024-09-27T11:06:44 CDT" name="testRewards" finished-at="2024-09-27T11:06:57 CDT" duration-ms="13340" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testUntitledTestCase -->
-        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:rewards.com.RewardsTest@48d5f34e]" started-at="2024-09-27T07:23:13 CDT" name="tearDownMethod" finished-at="2024-09-27T07:23:13 CDT" duration-ms="0" status="PASS">
+        </test-method> <!-- testRewards -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:rewards.com.RewardsTest@57ea113a]" started-at="2024-09-27T11:06:57 CDT" name="tearDownMethod" finished-at="2024-09-27T11:06:57 CDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:rewards.com.RewardsTest@48d5f34e]" started-at="2024-09-27T07:23:13 CDT" name="tearDownClass" finished-at="2024-09-27T07:23:13 CDT" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:rewards.com.RewardsTest@57ea113a]" started-at="2024-09-27T11:06:57 CDT" name="tearDownClass" finished-at="2024-09-27T11:06:57 CDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
       </class> <!-- rewards.com.RewardsTest -->
       <class name="store.com.SearchStoreByCityStateTest">
-        <test-method is-config="true" signature="setUpClass()[pri:0, instance:store.com.SearchStoreByCityStateTest@24d09c1]" started-at="2024-09-27T07:20:44 CDT" name="setUpClass" finished-at="2024-09-27T07:20:44 CDT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:store.com.SearchStoreByCityStateTest@48d5f34e]" started-at="2024-09-27T11:04:23 CDT" name="setUpClass" finished-at="2024-09-27T11:04:23 CDT" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:store.com.SearchStoreByCityStateTest@24d09c1]" started-at="2024-09-27T07:20:44 CDT" name="setUpMethod" finished-at="2024-09-27T07:20:45 CDT" duration-ms="1760" status="PASS">
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:store.com.SearchStoreByCityStateTest@48d5f34e]" started-at="2024-09-27T11:04:23 CDT" name="setUpMethod" finished-at="2024-09-27T11:04:25 CDT" duration-ms="1757" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpMethod -->
-        <test-method signature="testSearchStoreByCityStateDirections()[pri:0, instance:store.com.SearchStoreByCityStateTest@24d09c1]" started-at="2024-09-27T07:20:45 CDT" name="testSearchStoreByCityStateDirections" finished-at="2024-09-27T07:21:09 CDT" duration-ms="24013" status="PASS">
+        <test-method signature="testSearchStoreByCityStateDirections()[pri:0, instance:store.com.SearchStoreByCityStateTest@48d5f34e]" started-at="2024-09-27T11:04:25 CDT" name="testSearchStoreByCityStateDirections" finished-at="2024-09-27T11:04:50 CDT" duration-ms="24965" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSearchStoreByCityStateDirections -->
-        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:store.com.SearchStoreByCityStateTest@24d09c1]" started-at="2024-09-27T07:21:09 CDT" name="tearDownMethod" finished-at="2024-09-27T07:21:09 CDT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:store.com.SearchStoreByCityStateTest@48d5f34e]" started-at="2024-09-27T11:04:50 CDT" name="tearDownMethod" finished-at="2024-09-27T11:04:50 CDT" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:store.com.SearchStoreByCityStateTest@24d09c1]" started-at="2024-09-27T07:21:09 CDT" name="tearDownClass" finished-at="2024-09-27T07:21:09 CDT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:store.com.SearchStoreByCityStateTest@48d5f34e]" started-at="2024-09-27T11:04:50 CDT" name="tearDownClass" finished-at="2024-09-27T11:04:50 CDT" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
       </class> <!-- store.com.SearchStoreByCityStateTest -->
       <class name="FAQReturn.com.FAQReturnsTest">
-        <test-method is-config="true" signature="setUpClass()[pri:0, instance:FAQReturn.com.FAQReturnsTest@fc258b1]" started-at="2024-09-27T07:23:13 CDT" name="setUpClass" finished-at="2024-09-27T07:23:13 CDT" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:FAQReturn.com.FAQReturnsTest@acdb094]" started-at="2024-09-27T11:06:57 CDT" name="setUpClass" finished-at="2024-09-27T11:06:57 CDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:FAQReturn.com.FAQReturnsTest@fc258b1]" started-at="2024-09-27T07:23:13 CDT" name="setUpMethod" finished-at="2024-09-27T07:23:15 CDT" duration-ms="1649" status="PASS">
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:FAQReturn.com.FAQReturnsTest@acdb094]" started-at="2024-09-27T11:06:57 CDT" name="setUpMethod" finished-at="2024-09-27T11:06:59 CDT" duration-ms="1706" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpMethod -->
-        <test-method signature="testFAQReturns()[pri:0, instance:FAQReturn.com.FAQReturnsTest@fc258b1]" started-at="2024-09-27T07:23:15 CDT" name="testFAQReturns" finished-at="2024-09-27T07:23:30 CDT" duration-ms="15332" status="PASS">
+        <test-method signature="testFAQReturns()[pri:0, instance:FAQReturn.com.FAQReturnsTest@acdb094]" started-at="2024-09-27T11:06:59 CDT" name="testFAQReturns" finished-at="2024-09-27T11:07:15 CDT" duration-ms="16356" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testFAQReturns -->
-        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:FAQReturn.com.FAQReturnsTest@fc258b1]" started-at="2024-09-27T07:23:30 CDT" name="tearDownMethod" finished-at="2024-09-27T07:23:30 CDT" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:FAQReturn.com.FAQReturnsTest@acdb094]" started-at="2024-09-27T11:07:15 CDT" name="tearDownMethod" finished-at="2024-09-27T11:07:15 CDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:FAQReturn.com.FAQReturnsTest@fc258b1]" started-at="2024-09-27T07:23:30 CDT" name="tearDownClass" finished-at="2024-09-27T07:23:30 CDT" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:FAQReturn.com.FAQReturnsTest@acdb094]" started-at="2024-09-27T11:07:15 CDT" name="tearDownClass" finished-at="2024-09-27T11:07:15 CDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->

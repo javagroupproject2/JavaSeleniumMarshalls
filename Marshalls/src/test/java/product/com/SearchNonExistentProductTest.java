@@ -49,7 +49,7 @@ public class SearchNonExistentProductTest {
     }
 
     @Test
-    public void testUntitledTestCase() throws Exception {
+    public void testSearchNonExistentProduct() throws Exception {
         driver.manage().window().maximize();
         driver.get("https://www.google.com/search?q=marshalls&rlz=1C1ONGR_enUS1113US1114&oq=&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIJCAYQIxgnGOoCMhIIBxAuGCcYrwEYxwEY6gIYjgXSAQkyMjA3ajBqMTWoAgiwAgE&sourceid=chrome&ie=UTF-8");
         driver.findElement(By.xpath("//div[@id='rso']/div/div/div/div/div/div/div/div/div/div/span/a/h3")).click();
